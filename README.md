@@ -37,6 +37,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![React][React.js]][React-url]
 * [![Sass][Sass.com]][Sass-url]
+* [![Tailwind][TailwindCSS]][Tailwind-url]
 
 ## Installation
 
@@ -54,9 +55,27 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm start
    ```
+## Extentions
+
+ In this section, you can explore a range of Visual Studio Code (VS Code) extensions that can significantly improve your development experience
+  1. [Tailwind CSS IntelliSense]
+  2. [IntelliCode]
+  3. [Prettier - Code formatter]
+  4. [SonarLint]
+  5. [GitHub Copilot]
+  6. [SonarLint]
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Sass.com]: https://img.shields.io/badge/sass-BF4080?style=for-the-badge&logo=sass&logoColor=white
 [Sass-url]: https://sass-lang.com/
+[TailwindCSS]: https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB
+[tailwind-url]:https://tailwindcss.com/docs/installation
+
+[Tailwind CSS IntelliSense]:https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+[IntelliCode]:https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
+[Prettier - Code formatter]:https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[SonarLint]:https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode
+[GitHub Copilot]:https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+[SonarLint]:https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode
