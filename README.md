@@ -76,6 +76,31 @@ _Below is an example of how you can instruct your audience on installing and set
   6. [SonarLint]
 
 
+## Branch Naming Conventions
+
+Feature branches: feature/{branch-name}
+`Example: feature/navigation-bar`
+
+Bug fix branches: bugfix/{branch-name}
+`Example: bugfix/fix-navigation-issue`
+
+Hotfix branches: hotfix/{branch-name}
+`Example: hotfix/fix-authentication`
+
+Refactoring branches: refactor/{branch-name}
+`Example: refactor/update-auth-component`
+
+## Commit Message Conventions
+
+Start with a capitalized subject line (less than 50 characters):
+`Example: Added navigation bar component`
+
+Provide more details in the body if necessary:
+`Fixed login and signup functionality`
+`Refactored the movie collection component`
+`Added movie api service for fetching movie data`
+
+
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Sass.com]: https://img.shields.io/badge/sass-BF4080?style=for-the-badge&logo=sass&logoColor=white
