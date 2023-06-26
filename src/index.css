@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* you can also add more classes here*/
+
+/* you can use the base classes*/
+.test-secondary {
+  @apply text-red-300 font-semibold text-2xl;
+}
+
+/* you can use normal css with base classes */
+.test-primary {
+  background-color: #fff;
+  height: 100px;
+  width: 100px;
+  @apply text-red-300 font-semibold text-2xl;
+}
