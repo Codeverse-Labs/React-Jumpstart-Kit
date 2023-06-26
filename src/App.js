@@ -1,8 +1,14 @@
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import ExamplePage from './pages/ExamplePage';
+
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline text-red-500">
-    Hello world!
-    </h1>
+    <BrowserRouter>
+      <Routes>
+        {/* Example of how to define a router path */}
+        {/* <Route path="/example" element={<ExamplePage/>}/>  */}
+      </Routes>
+    </BrowserRouter>
   );
 }
 

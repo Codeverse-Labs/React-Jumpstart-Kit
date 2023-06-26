@@ -3,6 +3,14 @@ Get hands-on with React! This beginner-friendly repository offers curated tasks 
 <br>
 [figma design...]
 
+## Task 01
+
+Implement the components and pages based on the figma design
+
+## Task 02
+
+Make the implemented pages and components responsive
+
 ## Branching convension
 `main` branch will be used to deploy production releases.
 
