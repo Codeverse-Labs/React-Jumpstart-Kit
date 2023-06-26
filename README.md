@@ -1,5 +1,7 @@
 # React-Jumpstart-Kit
 Get hands-on with React! This beginner-friendly repository offers curated tasks to practice building user interfaces. From basic components to advanced concepts like routing and form handling, strengthen your skills through interactive exercises. Start your React journey today! Happy coding!
+<br>
+[figma design...]
 
 ## Branching convension
 `main` branch will be used to deploy production releases.
@@ -72,6 +74,7 @@ _Below is an example of how you can instruct your audience on installing and set
 [Sass-url]: https://sass-lang.com/
 [TailwindCSS]: https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB
 [tailwind-url]:https://tailwindcss.com/docs/installation
+[figma design...]:https://www.figma.com/file/gYwNQU6m4jAqz3igxChCp2/Saintstream?type=design&node-id=18%3A2808&mode=design&t=ddJMY1hZWdqJFnvh-1
 
 [Tailwind CSS IntelliSense]:https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
 [IntelliCode]:https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
