@@ -78,27 +78,27 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Branch Naming Conventions
 
-Feature branches: feature/{branch-name}
+Feature branches: feature/{branch-name}<br>
 `Example: feature/navigation-bar`
 
-Bug fix branches: bugfix/{branch-name}
+Bug fix branches: bugfix/{branch-name}<br>
 `Example: bugfix/fix-navigation-issue`
 
-Hotfix branches: hotfix/{branch-name}
+Hotfix branches: hotfix/{branch-name}<br>
 `Example: hotfix/fix-authentication`
 
-Refactoring branches: refactor/{branch-name}
+Refactoring branches: refactor/{branch-name}<br>
 `Example: refactor/update-auth-component`
 
 ## Commit Message Conventions
 
-Start with a capitalized subject line (less than 50 characters):
+Start with a capitalized subject line (less than 50 characters):<br>
 `Example: Added navigation bar component`
 
-Provide more details in the body if necessary:
-`Fixed login and signup functionality`
-`Refactored the movie collection component`
-`Added movie api service for fetching movie data`
+Provide more details in the body if necessary:<br>
+`Fixed login and signup functionality`<br>
+`Refactored the movie collection component`<br>
+`Added movie api service for fetching movie data`<br>
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
